@@ -1,0 +1,15 @@
+[
+  "pm2_5",
+  "pm10",
+  "no2",
+  "o3",
+  "so2",
+  "co",
+  "hour",
+  "weekday",
+  "month",
+  "aqi_lag_1",
+  "aqi_lag_3",
+  "aqi_roll_6h",
+  "aqi_change_1h"
+]

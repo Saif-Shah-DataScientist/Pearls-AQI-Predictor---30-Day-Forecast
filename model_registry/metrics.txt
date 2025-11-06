@@ -1,0 +1,2 @@
+Random Forest - MAE: 0.84, RMSE: 1.01, R2: 0.03
+Ridge - MAE: 0.74, RMSE: 0.97, R2: 0.11
